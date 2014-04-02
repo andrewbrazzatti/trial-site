@@ -1,8 +1,8 @@
 ```
-title: This is a Page
+title: Another link
 layout: page
 tags: ['intro','page']
-pageOrder: 1
+pageOrder: 2
 ```
 
 This is a **page**
